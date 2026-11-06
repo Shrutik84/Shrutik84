@@ -63,7 +63,7 @@ I am a developer focused on learning consistently and building things that work 
 
 <div align="center">
 
-<a href="www.linkedin.com/in/shrutikumari88">
+<a href="https://www.linkedin.com/in/shrutikumari88/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shrutik8702@gmail.com">
