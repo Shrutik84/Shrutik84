@@ -1,27 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=200&section=header&text=Shruti%20Kumari&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=fadeIn" alt="Header" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=7EE8FA&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hello+I+Debug+code+with+chill+Beats+and+steady+learning" alt="Hello I Debug code with chill Beats and steady learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=F472B6&center=true&vCenter=true&repeat=true&width=900&height=50&lines=Hello%2C+I+debug+code+with+chill+beats+and+steady+learning" alt="Hello, I debug code with chill beats and steady learning" />
 </a>
 
 <br/>
 
-<!-- <a href="https://www.linkedin.com/in/priyanshu-raj-08a4533a8">
+<a href="https://www.linkedin.com/in/shrutikumari88/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:priyanshuraj8301@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:shrutik8702@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://leetcode.com/u/priyanshu_Raj24/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-</a> -->
-
-<!-- <br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=priyanshu-Raj-24&label=Profile+Views&color=c471f5&style=flat-square" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/priyanshu-Raj-24?style=flat-square&color=7ee8fa&label=Followers" alt="Followers" /> -->
 
 </div>
 
@@ -29,18 +21,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shrutik84&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=14400&v=2" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutik84&layout=compact&theme=radical&hide_border=true&cache_seconds=14400&v=2" alt="Top Languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=shrutik84&theme=radical&hide_border=true&v=2" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=shrutik84&theme=radical&hide_border=true&background=1F1B2E&ring=F472B6&fire=F472B6&currStreakNum=F9A8D4&sideNums=F9A8D4&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=A78BFA&v=2" alt="GitHub Streak" />
 
 </div>
 
 ## About
 
-I am a developer focused on learning consistently and building things that work which sometimes feels like a game and sometimes it feels like a nightmare,but I enjoy solving problems, reading other people's code, and improving a little with every commit.
+I am a developer focused on learning consistently and building things that work. It sometimes feels like a game and sometimes like a nightmare, but I enjoy solving problems, reading other people's code, and improving a little with every commit.
 
 - Practicing data structures and algorithms on LeetCode
 - Building projects to apply what I learn
@@ -57,8 +44,6 @@ I am a developer focused on learning consistently and building things that work 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-
-
 ## Connect
 
 <div align="center">
@@ -67,10 +52,9 @@ I am a developer focused on learning consistently and building things that work 
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:shrutik8702@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,100:8b5cf6&height=120&section=footer" alt="Footer" width="100%" />
 
 </div>
-
